@@ -27,6 +27,12 @@ To get started with Bitcoin Backup Helper 1248, follow these steps:
 
 This project features a beautiful interface designed by [Lewis Shadows](https://twitter.com/ShadowsLewis). Check out more of his creative works on his Twitter profile!
 
+
+
+|  Home |  Backup  | 
+|---|---|
+|![alt text](image.png) | ![alt text](image-1.png)|
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
